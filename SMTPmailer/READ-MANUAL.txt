@@ -1,0 +1,13 @@
+First unzip the folder and upload to your web server via FTP or File Manager
+
+1. Open the credentials.json
+
+2. insert hostname of your SMTP or Webmail
+
+3. insert username of your SMTP or webmail
+
+4. insert password of your SMTP or webmail
+
+5. Save and Start Sending
+
+6. If you don't have SMTP or Webmail, go to your Cpanel and Click Email Account, then create a Webmail, after creating webmail, you will be sent SMTP details of your webmail. If you are not sent SMTP automatically, you can request from your host or check your webmail settings for the SMTP.
