@@ -104,20 +104,20 @@ include("includes/main.php");
 
 
           <div class="footer-nav__col footer-nav__col--contacts">
-            <div class="footer-nav__heading">Contact details</div>
-            <address class="address">
-            Head Office: Big Market<br>
-            MG rode, navsari,gujarat.
-          </address>
-            <div class="phone">
-              Telephone:
-              <a class="phone__number" href="tel:9412345678">9412345678</a>
-            </div>
-            <div class="email">
-              Email:
-              <a href="mailto:janviyati@gmail.com" class="email__addr">janviyati@gmail.com</a>
-            </div>
+          <div class="footer-nav__heading">Contact details</div>
+          <address class="address">
+          Head Office: Billimora.<br>
+          Main road, navsari,gujarat.
+        </address>
+          <div class="phone">
+            Telephone:
+            <a class="phone__number" href="tel:9412345678">+91 987 6543 210</a>
           </div>
+          <div class="email">
+            Email:
+            <a href="mailto:support@yourwebsite.com" class="email__addr">perfumeshop@gmail.com</a>
+          </div>
+        </div>
 
         </div>
       </div>
@@ -151,16 +151,16 @@ include("includes/main.php");
         <div class="container clearfix">
 
           <div class="copyright">
-            &copy; <?php echo date("Y");?> Ecommerce Website-PHP&trade;
+            &copy; <?php echo date("Y");?> Perfumeshop&trade;
           </div>
 
-          <div class="developer">
-            Developed by janviyati
-          </div>
+          <div class="copyright">
+				&copy; 2024, Perfumeshop&trade;
+			</div>
 
-          <div class="designby">
-            Design by janviyati
-          </div>
+			<div class="developer">
+				Dev by Perfumeshop
+			</div>
 
         </div>
       </div>
