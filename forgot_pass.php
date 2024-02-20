@@ -132,7 +132,7 @@ Your Password is : <span> <b>$c_pass</b> </span>
 
 <h3 align='center'>
 
-<a href='localhost/ecom_store/checkout.php'>
+<a href='localhost/perfume_store/checkout.php'>
 
 Click Here To Login Your Account
 

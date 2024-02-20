@@ -389,7 +389,7 @@ $message = "
 Email Confirmation By Computerfever.com $c_name
 </h2>
 
-<a href='localhost/ecom_store/customer/my_account.php?$customer_confirm_code'>
+<a href='localhost/perfume_store/customer/my_account.php?$customer_confirm_code'>
 
 Click Here To Confirm Email
 
